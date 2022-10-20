@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Ricardo Agustin Bertrand</h1>
-<h3 align="center">Desarrollador web fullstack </h3>
+<h3 align="center">Full Stack Developer from Argentina </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

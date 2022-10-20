@@ -1,4 +1,4 @@
-<img align-self="center" width="100%" height="350px" src="https://drive.google.com/file/d/15z6ZYOHNRSSQI1rKz1c9IDY_blEnFtwa/view" />
+<img align-self="center" width="100%" height="350px" src="https://res.cloudinary.com/dhfwuqzoz/image/upload/v1666285214/Products/img/matrix_welcome_taoyl2.jpg" />
 
 <h1 align="center">Hi 👋, I'm Ricardo Agustin Bertrand</h1>
 <h3 align="center">Full Stack Developer from Argentina </h3>

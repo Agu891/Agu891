@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Ricardo Agustin Bertrand</h1>
+<h1 align="center">Hi 👋, I'm Ricardo Agustin Bertrand</h1>
 <h3 align="center">Full Stack Developer from Argentina </h3>
 <p align="left">
 I'm a 33 years old developer who loves gaming and technology. Currently focused on fullstack web development with knowledge in  front end libraries and backend technologies such as React.js Node.js Mongodb Express Postgresql and AGILE methodoligies  like Scrum. In january 2022 I  discovered my passion for programming, after years of workiong in the IT sector as a computer and network technician, achieving a full stack web developer certification in Nucba digital academy. I'm here to share my skills and to learn from others as well.

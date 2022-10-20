@@ -1,4 +1,4 @@
-<img align="center" src="https://textpro.me/images/user_image/2022/10/63517c325022f.jpg-s884-b1" />
+<img align="center" src="https://textpro.me/images/user_image/2022/10/63517c325022f.jpg" />
 
 <h1 align="center">Hi 👋, I'm Ricardo Agustin Bertrand</h1>
 <h3 align="center">Full Stack Developer from Argentina </h3>
